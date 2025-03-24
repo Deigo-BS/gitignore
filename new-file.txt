@@ -1,3 +1,0 @@
-Este archivo esta siendo ignorado (en el primer commit).
-
-Como cambio la regla en el .gitignore ya no estoy siendo ignorado (Segundo commit).
